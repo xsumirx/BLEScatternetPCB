@@ -1,0 +1,15 @@
+Pour Copper Report
+------------------
+
+Report File:        C:\Scatternet PCB\PCB\scatternet (PCB - Pour Copper Report).txt
+Report Written:     Saturday, April 30, 2016
+Project Path:       C:\Scatternet PCB\PCB\scatternet.prj
+Design Path:        C:\Scatternet PCB\PCB\scatternet.pcb
+Design Title:       
+Created:            4/20/2016 5:54:06 PM
+Last Saved:         4/25/2016 12:16:11 AM
+Editing Time:       853 min
+Units:              mm (precision 2)
+
+
+End Of Report.

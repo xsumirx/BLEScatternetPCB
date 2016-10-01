@@ -1,0 +1,71 @@
+Report File:,C:\Scatternet PCB\PCB\scatternet (Bill Of Materials).csv,,,,,,
+Report Written:,"Monday, April 25, 2016",,,,,,
+Project Path:,C:\Scatternet PCB\PCB\scatternet.prj,,,,,,
+Design Path:,C:\Scatternet PCB\PCB\scatternet.pcb,,,,,,
+Design Title:,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Ref Name,Qty,Component,Value,Package,Manufacturer,MPN,Description
+T1,1,2908-05WB-MG,,MICRO-SD-SOCKET-PP,,,
+BAT1,1,BATTERY20PTH,,BATTCOM_20MM_PTH,,,"Battery HoldersVarious common sizes : AA, AAA, 20mm coin cell and 12mm coin cell."
+"Q3,Q4,Q5,Q6",4,2STR1160,,SOT23,STMicroelectronics,,NPN Bipolar
+Q4,1,BC547,,SM,,,NPN Bipolar
+Q5,1,BC547,,SM,,,NPN Bipolar
+Q6,1,BC547,,SM,,,NPN Bipolar
+C1,1,Capacitor (ceramic),,1206,,,
+C2,1,Capacitor (ceramic),,1206,,,
+C3,1,Capacitor (ceramic),,1206,,,
+C5,1,Capacitor (ceramic),,1206,,,
+C8,1,Capacitor (ceramic),,1206,,,
+C4,1,CAP_3mm_8mm,,CAP,,,
+C6,1,CAP_3mm_8mm,,CAP,,,
+C7,1,CAP_3mm_8mm,,CAP,,,
+C9,1,CAP_5mm_10mm,,CAP,,,
+C10,1,CAP_5mm_10mm,,CAP,,,
+PL1,1,CONN_SIL_4,,DSC,,,4 way Pin Header
+PL2,1,CONN_SIL_5,,DSC,,,5 way Pin Header
+Q1,1,CRYSTALHC49US,,SMD,,,CrystalsVarious standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534
+Q2,1,CRYSTALHC49US,,SMD,,,CrystalsVarious standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534
+ZD1,1,Diode_zener,1N5359,DSC,,,Zener Diode
+U2,1,DS13078_2,,SO8NB,,,
+LDR1,1,LDR (miniature),,DIL,,,
+LED1,1,LED,LED 5MM RED,DSC,,,Light Em Di
+LED2,1,LED,LED 5MM RED,DSC,,,Light Em Di
+LED3,1,LED,LED 5MM RED,DSC,,,Light Em Di
+LED4,1,LED,LED 5MM RED,DSC,,,Light Em Di
+U3,1,M95M01-RMN6P,,SO-8-L,STMicroelectronics,M95M01-RMN6P,EEPROM SPI 1 MBit5MHz SOIC8
+J1,1,POWER_JACKPTH,,POWER_JACK_PTH,,,"Power JackThis is the standard 5.5mm barrel jack for power. The PTH is the most common, proven, reliable, footprint. All others are experimental. The Slot footprint only works if the mill layer is transmitted to the PCB fab house so be warned. Spark Fun Electronics SKU : PRT-00119. Mating wall wart : TOL-00298 (and others)"
+R1,1,Resistor2,,1206,,,Resistor (USA type)
+R2,1,Resistor2,,1206,,,Resistor (USA type)
+R3,1,Resistor2,,1206,,,Resistor (USA type)
+R4,1,Resistor2,,1206,,,Resistor (USA type)
+R5,1,Resistor2,,1206,,,Resistor (USA type)
+R6,1,Resistor2,,1206,,,Resistor (USA type)
+R7,1,Resistor2,,1206,,,Resistor (USA type)
+R8,1,Resistor2,,1206,,,Resistor (USA type)
+R9,1,Resistor2,,1206,,,Resistor (USA type)
+R10,1,Resistor2,,1206,,,Resistor (USA type)
+R11,1,Resistor2,,1206,,,Resistor (USA type)
+R12,1,Resistor2,,1206,,,Resistor (USA type)
+R13,1,Resistor2,,1206,,,Resistor (USA type)
+R14,1,Resistor2,,1206,,,Resistor (USA type)
+R15,1,Resistor2,,1206,,,Resistor (USA type)
+R16,1,Resistor2,,1206,,,Resistor (USA type)
+R17,1,Resistor2,,1206,,,Resistor (USA type)
+R18,1,Resistor2,,1206,,,Resistor (USA type)
+R19,1,Resistor2,,1206,,,Resistor (USA type)
+R20,1,Resistor2,,1206,,,Resistor (USA type)
+R21,1,Resistor2,,1206,,,Resistor (USA type)
+U4,1,SPBTLE,,CUTOM,,,
+U1,1,STM32F030C8-1,,LQFN,,,
+S1,1,TAC_SWITCHPTH,,TACTILE-PTH,,,Momentary SwitchButton commonly used for reset or general input. Spark Fun Electronics SKU : COM-00097
+S2,1,TAC_SWITCHPTH,,TACTILE-PTH,,,Momentary SwitchButton commonly used for reset or general input. Spark Fun Electronics SKU : COM-00097
+S3,1,TAC_SWITCHPTH,,TACTILE-PTH,,,Momentary SwitchButton commonly used for reset or general input. Spark Fun Electronics SKU : COM-00097
+U5,1,TS2937,,SOT-223,,,

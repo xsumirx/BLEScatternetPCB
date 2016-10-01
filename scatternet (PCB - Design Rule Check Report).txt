@@ -1,0 +1,70 @@
+Design Rule Check Report
+------------------------
+
+Report File:        C:\Scatternet PCB\PCB\scatternet (PCB - Design Rule Check Report).txt
+Report Written:     Sunday, April 24, 2016
+Project Path:       C:\Scatternet PCB\PCB\scatternet.prj
+Design Path:        C:\Scatternet PCB\PCB\scatternet.pcb
+Design Title:       
+Created:            4/20/2016 5:54:06 PM
+Last Saved:         4/24/2016 10:18:07 PM
+Editing Time:       733 min
+Units:              mm (precision 2)
+
+
+Results
+=======
+
+Track to Shape error (T-C) at (535.73 480.80) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'SWCLK'), Gap is 0.00.
+Via to Shape Error (V-C) between (544.11 471.40) and (544.10 471.28) on Layer "[All]".
+    Error between Component Shape and Via (Net 'SWITCH2'), Gap is 0.12 needs to be 0.20.
+Dangling Track from (545.67,483.64) to (545.92,483.89) on layer Bottom Copper
+
+Number of errors found : 3
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.

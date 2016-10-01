@@ -1,0 +1,50 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File:        C:\Scatternet PCB\PCB\scatternet (PCB - Forward Design Changes Report).txt
+Report Written:     Sunday, April 24, 2016
+Project Path:       C:\Scatternet PCB\PCB\scatternet.prj
+Design Path:        C:\Scatternet PCB\PCB\scatternet.pcb
+Design Title:       
+Created:            4/20/2016 5:54:06 PM
+Last Saved:         4/24/2016 11:42:04 PM
+Editing Time:       816 min
+Units:              mm (precision 2)
+
+Ignored different package for component reference "Q1", schematic uses package "HC49US", and PCB uses package "SMD".
+Ignored different package for component reference "C1", schematic uses package "DIL", and PCB uses package "1206".
+Ignored different package for component reference "C2", schematic uses package "DIL", and PCB uses package "1206".
+Ignored different package for component reference "Q2", schematic uses package "HC49US", and PCB uses package "SMD".
+Ignored different package for component reference "R1", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "R2", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "R3", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "R4", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "R5", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "C3", schematic uses package "DIL", and PCB uses package "1206".
+Ignored different package for component reference "Q3", schematic uses package "DSC", and PCB uses package "SM".
+Ignored different package for component reference "Q4", schematic uses package "DSC", and PCB uses package "SM".
+Ignored different package for component reference "Q5", schematic uses package "DSC", and PCB uses package "SM".
+Ignored different package for component reference "Q6", schematic uses package "DSC", and PCB uses package "SM".
+Ignored different package for component reference "R6", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "R7", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "R8", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "R9", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "R10", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "R11", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "R12", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "R13", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "R14", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "R15", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "R16", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "R17", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "R18", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "C5", schematic uses package "DIL", and PCB uses package "1206".
+Ignored different package for component reference "R19", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "R20", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "R21", schematic uses package "DSC", and PCB uses package "1206".
+Ignored different package for component reference "C8", schematic uses package "DIL", and PCB uses package "1206".
+
+Connected pin "T1-6" to net "GND".
+
+
+End Of Report.
